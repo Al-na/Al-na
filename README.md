@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Al-na
+- 🌚 🌝 Hi, I’m @Al-na
 - 🌱 I’m interested in sustainability, dogs, thrilling series and social justice
 - 💻 I’m currently learning how to code!
-- 📍 How to reach me: ✨ https://www.linkedin.com/in/alina-bich-7ba481187/ ✨
+- 📍 How to reach me: ✨ https://www.linkedin.com/in/alina-bich ✨
 
 <!---
 Al-na/Al-na is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
